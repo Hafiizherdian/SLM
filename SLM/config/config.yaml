@@ -1,0 +1,42 @@
+# Application Configuration
+app:
+  name: "Question Generator Bot"
+  version: "1.0.0"
+
+# Model Configuration
+model:
+  name: "distilgpt2"
+  max_length: 150
+  temperature: 0.7
+
+# File Processing
+file_processing:
+  supported_formats:
+    - ".pdf"
+    - ".txt"
+  max_file_size_mb: 10
+
+# Question Generation
+question_generation:
+  default_num_questions: 10
+  min_sentence_length: 5
+  question_types:
+    - "pengertian"
+    - "penerapan"
+    - "analisis"
+    - "evaluasi"
+
+# Output Configuration
+output:
+  default_format: "txt"
+  supported_formats:
+    - "txt"
+    - "json"
+  timestamp_format: "%Y-%m-%d %H:%M:%S"
+
+# Paths
+paths:
+  input_dir: "data/input"
+  output_dir: "data/output/questions"
+  pdf_dir: "data/input/pdf"
+  txt_dir: "data/input/txt"

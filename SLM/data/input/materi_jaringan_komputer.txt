@@ -1,0 +1,85 @@
+JARINGAN KOMPUTER
+
+1. Pengertian Jaringan Komputer
+Jaringan komputer adalah kumpulan dua atau lebih komputer yang saling terhubung satu sama lain untuk melakukan komunikasi data dan berbagi sumber daya. Setiap komputer atau perangkat yang terhubung dalam jaringan dapat saling bertukar data, informasi, dan berbagi perangkat keras seperti printer atau storage.
+
+2. Jenis-jenis Jaringan Komputer
+A. Berdasarkan Area Cakupan:
+- LAN (Local Area Network): Jaringan komputer yang mencakup wilayah kecil seperti gedung, kantor, atau kampus.
+- MAN (Metropolitan Area Network): Jaringan komputer yang mencakup wilayah satu kota.
+- WAN (Wide Area Network): Jaringan komputer yang mencakup wilayah antar kota atau negara.
+- PAN (Personal Area Network): Jaringan pribadi dalam jarak sangat dekat, seperti Bluetooth.
+
+B. Berdasarkan Fungsi:
+- Client-Server: Jaringan dengan satu komputer bertindak sebagai server yang melayani komputer lain (client).
+- Peer-to-Peer: Jaringan dimana setiap komputer dapat bertindak sebagai client maupun server.
+
+3. Topologi Jaringan
+- Bus: Semua komputer terhubung pada satu kabel utama.
+- Star: Semua komputer terhubung ke satu titik pusat (hub/switch).
+- Ring: Komputer terhubung membentuk lingkaran.
+- Mesh: Setiap komputer terhubung langsung dengan komputer lainnya.
+- Tree: Gabungan beberapa topologi star membentuk struktur pohon.
+
+4. Perangkat Jaringan
+- Router: Menghubungkan dan mengarahkan data antar jaringan berbeda.
+- Switch: Menghubungkan beberapa komputer dalam satu jaringan.
+- Hub: Menghubungkan komputer dalam jaringan (versi sederhana dari switch).
+- Modem: Mengubah sinyal digital ke analog dan sebaliknya.
+- Network Interface Card (NIC): Kartu jaringan untuk menghubungkan komputer ke jaringan.
+- Repeater: Memperkuat sinyal jaringan.
+
+5. Protokol Jaringan
+- TCP/IP (Transmission Control Protocol/Internet Protocol): Protokol standar internet.
+- HTTP (Hypertext Transfer Protocol): Protokol untuk web.
+- FTP (File Transfer Protocol): Protokol transfer file.
+- SMTP (Simple Mail Transfer Protocol): Protokol email.
+- DNS (Domain Name System): Protokol penerjemah nama domain ke IP.
+
+6. Keamanan Jaringan
+A. Ancaman Jaringan:
+- Virus dan Malware
+- Serangan DDoS
+- Pencurian Data
+- Man-in-the-Middle Attack
+
+B. Metode Pengamanan:
+- Firewall
+- Antivirus
+- Enkripsi Data
+- Authentication
+- Access Control
+
+7. IP Address
+- IPv4: Format alamat 32-bit (contoh: 192.168.1.1)
+- IPv6: Format alamat 128-bit untuk mengatasi keterbatasan IPv4
+- Subnet Mask: Penanda batasan network dan host
+- DHCP: Sistem pemberian IP otomatis
+
+8. Manfaat Jaringan Komputer
+- Berbagi sumber daya (printer, storage)
+- Komunikasi (email, chat, video call)
+- Akses informasi
+- Pengembangan dan pemeliharaan yang lebih mudah
+- Keamanan data yang lebih baik
+- Penghematan biaya
+
+9. Troubleshooting Jaringan
+A. Masalah Umum:
+- Koneksi lambat
+- Packet loss
+- Konflik IP
+- Kegagalan hardware
+
+B. Solusi:
+- Pengecekan kabel
+- Reset perangkat
+- Update driver
+- Konfigurasi ulang network settings
+
+10. Perkembangan Teknologi Jaringan
+- Cloud Computing
+- Software-Defined Networking (SDN)
+- Internet of Things (IoT)
+- 5G Networks
+- Edge Computing
